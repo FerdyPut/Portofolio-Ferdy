@@ -14,15 +14,23 @@
  #### 2. [SMAN 2 Lumajang](https://www.sman2-lmj.sch.id) | MIPA | Lumajang `2017-2020`
 
 ## Committe Activities:
-#### 1. [Sigma Sambang Kampung - BEM Vokasi] | Volunteer | Surabaya `July 2022-December 2022`
+#### 1. Project Vokasi - BEM Vokasi | Volunteer | Surabaya `May 2022-October 2022`
   - Assist and organize several vocational project activities
   - Visiting village communities and making observations regarding the environmental conditions of the communities visited
   - Conduct a SWOT analysis related to vocational projects from the results of an analysis of environmental conditions under observation
   - Formed several staff for each field in the vocational project around 3 staff to carry out environmental condition and SWOT analysis
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 2. Sigma Sambang Kampung - BEM Vokasi | Volunteer | Surabaya `July 2022-December 2022`
+  - Conduct village visits that will be used as project activities
+  - Conduct interviews in the target villages regarding the environmental conditions of the villages
+  - Volunteering to help with village visits related to counseling and teaching in the village
+
+## Portofolio:
+#### 1. Neural Network Project in PLN with R Shiny
+#### Goals: Modeling with a machine learning neural network on pln data based on work shifts which will later get the best model and forecast for the next 10 periods
+#### Here is output of R Shiny Project : <center><img src="R Shiny PLN.png" /></center>
+#### 1. Introduction of Python 
+#### Goals: Python introduction and training about the basic and basic concepts of Python
+#### Here is the syntax or code : [Introduction of Python](tugasgithub.md)
 ---
 
 ### Languages and Tools:
@@ -46,6 +54,4 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/fer.dyputr_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/fer.dyputr_#gh-dark-mode-only)
 
-
-
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/FerdyPut/ferdyansyahpputra.github.io
